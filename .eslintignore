@@ -1,0 +1,4 @@
+node_modules
+commitlint.config.js
+jest.setup.js
+logs

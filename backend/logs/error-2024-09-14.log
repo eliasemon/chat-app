@@ -1,0 +1,1 @@
+{"level":"error","message":"Error: User Email already exists","stack":"Error: User Email already exists\n    at signup (D:\\personal_project\\chat-app\\Back-End\\src\\api\\v1\\auth\\controller.ts:20:21)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)","status":400,"timestamp":"2024-09-13T18:33:08.845Z"}

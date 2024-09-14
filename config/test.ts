@@ -6,7 +6,7 @@ const config = {
   port: 4000,
   mode: 'test',
   db: {
-    url: `${process.env.TEST_DATABASE_URL}`,
+    url: `${process.env.DATABASE_URL_POSTGRES}`,
   },
 };
 

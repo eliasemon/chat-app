@@ -1,1 +1,37 @@
 {"level":"error","message":"Error connecting to Database","timestamp":"2024-09-24T09:49:05.244Z"}
+{"level":"info","message":"Database Connected Successfully!","timestamp":"2024-09-24T12:13:40.808Z"}
+{"level":"info","message":"Route  added with route.ts","timestamp":"2024-09-24T12:13:41.382Z"}
+{"level":"info","message":"Middleware /v1/protected added with middleware.ts","timestamp":"2024-09-24T12:13:41.897Z"}
+{"level":"info","message":"Route /v1/auth added with route.ts","timestamp":"2024-09-24T12:13:42.370Z"}
+{"level":"info","message":"Route /v2/demo added with route.ts","timestamp":"2024-09-24T12:13:42.438Z"}
+{"level":"info","message":"Route /v1/protected/conversation added with route.ts","timestamp":"2024-09-24T12:13:42.949Z"}
+{"level":"info","message":"Route /v1/protected/message added with route.ts","timestamp":"2024-09-24T12:13:43.070Z"}
+{"level":"info","message":"Route /v1/protected/user added with route.ts","timestamp":"2024-09-24T12:13:43.505Z"}
+{"level":"info","message":"Route /v1/protected/upload added with route.ts","timestamp":"2024-09-24T12:13:45.684Z"}
+{"level":"info","message":"7 routes have been added","timestamp":"2024-09-24T12:13:45.685Z"}
+{"level":"info","message":"Routes added successfully","timestamp":"2024-09-24T12:13:45.686Z"}
+{"level":"info","message":"Server is listening on http://localhost:3000","timestamp":"2024-09-24T12:13:45.688Z"}
+{"level":"info","message":"Database Connected Successfully!","timestamp":"2024-09-24T12:15:20.114Z"}
+{"level":"info","message":"Route  added with route.ts","timestamp":"2024-09-24T12:15:20.317Z"}
+{"level":"info","message":"Route /v1/auth added with route.ts","timestamp":"2024-09-24T12:15:21.149Z"}
+{"level":"info","message":"Middleware /v1/protected added with middleware.ts","timestamp":"2024-09-24T12:15:21.853Z"}
+{"level":"info","message":"Route /v2/demo added with route.ts","timestamp":"2024-09-24T12:15:21.943Z"}
+{"level":"info","message":"Route /v1/protected/conversation added with route.ts","timestamp":"2024-09-24T12:15:22.560Z"}
+{"level":"info","message":"Route /v1/protected/message added with route.ts","timestamp":"2024-09-24T12:15:22.688Z"}
+{"level":"info","message":"Route /v1/protected/upload added with route.ts","timestamp":"2024-09-24T12:15:23.034Z"}
+{"level":"info","message":"Route /v1/protected/user added with route.ts","timestamp":"2024-09-24T12:15:23.526Z"}
+{"level":"info","message":"7 routes have been added","timestamp":"2024-09-24T12:15:23.527Z"}
+{"level":"info","message":"Routes added successfully","timestamp":"2024-09-24T12:15:23.527Z"}
+{"level":"info","message":"Server is listening on http://localhost:3000","timestamp":"2024-09-24T12:15:23.529Z"}
+{"level":"info","message":"Database Connected Successfully!","timestamp":"2024-09-24T12:18:51.337Z"}
+{"level":"info","message":"Route  added with route.ts","timestamp":"2024-09-24T12:18:51.911Z"}
+{"level":"info","message":"Route /v1/auth added with route.ts","timestamp":"2024-09-24T12:18:52.501Z"}
+{"level":"info","message":"Middleware /v1/protected added with middleware.ts","timestamp":"2024-09-24T12:18:53.012Z"}
+{"level":"info","message":"Route /v2/demo added with route.ts","timestamp":"2024-09-24T12:18:53.080Z"}
+{"level":"info","message":"Route /v1/protected/conversation added with route.ts","timestamp":"2024-09-24T12:18:53.553Z"}
+{"level":"info","message":"Route /v1/protected/upload added with route.ts","timestamp":"2024-09-24T12:18:55.614Z"}
+{"level":"info","message":"Route /v1/protected/message added with route.ts","timestamp":"2024-09-24T12:18:55.727Z"}
+{"level":"info","message":"Route /v1/protected/user added with route.ts","timestamp":"2024-09-24T12:18:56.280Z"}
+{"level":"info","message":"7 routes have been added","timestamp":"2024-09-24T12:18:56.281Z"}
+{"level":"info","message":"Routes added successfully","timestamp":"2024-09-24T12:18:56.281Z"}
+{"level":"info","message":"Server is listening on http://localhost:3000","timestamp":"2024-09-24T12:18:56.283Z"}

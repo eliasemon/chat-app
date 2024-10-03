@@ -28,6 +28,8 @@
     "import/newline-after-import": "error",
     "import/no-absolute-path": "off",
     "import/no-unresolved": "off",
+    "arrow-body-style": "off",
+    "import/order": "off",
     "import/extensions": "off",
     "no-shadow": "off",
     "linebreak-style": "off",

@@ -1,9 +1,11 @@
+import Auth from './pages/Auth/Auth';
+import Home from './pages/home/Home';
+import { useStore } from './store/store';
+// import Home from './pages/home/Home';
 function App() {
-  return (
-    <div>
-      <h1>This messsage from chat-app client</h1>
-    </div>
-  );
+  const user = useStore((state) => state.user);
+  console.log(user);
+  return <div className="h-screen w-screen">{user ? <Home /> : <Auth />}</div>;
 }
 
 export default App;
